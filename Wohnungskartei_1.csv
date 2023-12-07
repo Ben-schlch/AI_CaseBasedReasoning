@@ -1,0 +1,266 @@
+﻿Zimmerzahl;Stockwerk;Heizung;Hausmeister;Kindergarten;Schule;S-Bahn;Garage;Miete;Nebenkosten;Alter;Aufzug;Lage;Entfernung;Kaution;Kueche;Bad;Balkon;Terrasse;Kehrwoche;Moebliert;Quadratmeter;Kabelanschluss;Deckenhöhe;Abstellraum;Waschraum;Klasse
+Zwei Zimmer;1.Stock;Gas-Zentral;nein;nah;erreichbar;nah;nein;251-300;50-100;16-20 Jahre;ja;Hauptstrasse;< 1 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;31-40;nein;250;ja;nein;Studierende
+4 Zimmer;3.Stock;Gas-Etage;ja;fern;nah;nah;nein;551-600;201-250;4-7 Jahre;ja;Hauptstrasse;5-10 km;ueber 3000;Küche (alt);Dusche;ja;nein;nein;nein;91-100;nein;250;nein;nein;DINK
+4 Zimmer;EG;Gas-Etage;nein;erreichbar;nah;erreichbar;nein;551-600;151-200;7-10 Jahre;nein;Wohngebiet;21-30 km;ueber 3000;Küche (alt);Badewanne;nein;nein;nein;nein;81-90;ja;250;nein;nein;Kleinfamilie
+Ein Zimmer;2.Stock;Öl;nein;erreichbar;fern;nein;nein;251-300;unter 50;16-20 Jahre;nein;Hauptstrasse;< 3 km;keine;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;20-30;nein;250;ja;nein;Studierende
+6 Zimmer;3.Stock;Gas-Etage;ja;erreichbar;nah;erreichbar;ja;751-800;251-300;11-15 Jahre;ja;Hauptstrasse;3-5 km;ueber 3000;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;über 120;nein;250;nein;ja;DINK
+2-3 Zimmer;5.Stock;Gas-Etage;nein;fern;erreichbar;erreichbar;ja;401-450;101-150;31-50 Jahre;ja;Hauptstrasse;< 1 km;keine;Küche (neu);Dusche + Wanne;ja;nein;nein;nein;51-60;ja;250;nein;nein;Single
+Ein Zimmer;4.Stock;Gas-Zentral;ja;fern;nah;nah;nein;201-250;unter 50;7-10 Jahre;ja;Hauptstrasse;< 1 km;keine;Küche (alt);Dusche;ja;nein;ja;nein;20-30;nein;260;ja;nein;Studierende
+5 Zimmer;1.Stock;Öl;nein;nah;nah;nein;nein;651-700;251-300;4-7 Jahre;ja;Abgelegen;21-30 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;101-110;nein;250;ja;nein;Kleinfamilie
+3-4 Zimmer;1.Stock;Öl;nein;erreichbar;nah;mit Bus;nein;501-550;101-150;ueber 100;ja;Wohngebiet;> 30 km;1000-1500;Küche (alt);Dusche;ja;nein;nein;nein;71-80;nein;280;nein;nein;Kleinfamilie
+4-5 Zimmer;EG;Pellets;nein;erreichbar;nah;nein;nein;601-650;201-250;4-7 Jahre;nein;Wohngebiet;> 30 km;ueber 3000;Küche (neu);Badewanne;nein;nein;nein;nein;101-110;nein;250;ja;nein;Kleinfamilie
+Ein Zimmer;1.Stock;Pellets;nein;nah;erreichbar;erreichbar;nein;251-300;unter 50;7-10 Jahre;ja;Hauptstrasse;5-10 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;20-30;ja;250;nein;nein;Studierende
+4-5 Zimmer;EG;Öl;nein;erreichbar;nah;erreichbar;nein;651-700;201-250;4-7 Jahre;nein;Hauptstrasse;5-10 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;101-110;nein;250;nein;nein;Kleinfamilie
+5-6 Zimmer;5.Stock;Öl;ja;fern;erreichbar;erreichbar;nein;801-850;251-300;Neubau;ja;Spielstrasse;5-10 km;ueber 3000;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;über 120;ja;250;nein;nein;DINK
+4 Zimmer;EG;Gas-Etage;ja;erreichbar;nah;nah;nein;551-600;201-250;4-7 Jahre;ja;Spielstrasse;11-20 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;ja;nein;nein;81-90;nein;250;ja;nein;Kleinfamilie
+Ein Zimmer;5.Stock;Öl;nein;erreichbar;fern;erreichbar;nein;201-250;unter 50;Neubau;ja;Hauptstrasse;3-5 km;keine;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;20-30;nein;250;nein;nein;Studierende
+Ein Zimmer;EG;Öl;nein;fern;erreichbar;nah;ja;251-300;50-100;ueber 100;nein;Hauptstrasse;> 30 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;20-30;ja;280;nein;nein;Studierende
+5 Zimmer;EG;Gas-Zentral;nein;nah;nah;nein;ja;651-700;201-250;4-7 Jahre;nein;Nebenstrasse;> 30 km;ueber 3000;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;101-110;nein;250;ja;nein;Kleinfamilie
+Ein Zimmer;1.Stock;Öl;nein;erreichbar;erreichbar;erreichbar;nein;251-300;unter 50;Neubau;nein;Hauptstrasse;11-20 km;keine;Küche (neu);Dusche + Wanne;nein;nein;nein;nein;31-40;nein;250;nein;nein;Studierende
+5 Zimmer;1.Stock;Erdwärme;ja;nah;nah;mit Bus;nein;651-700;251-300;51-75 Jahre;ja;Hauptstrasse;11-20 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;101-110;nein;250;ja;nein;Kleinfamilie
+4 Zimmer;2.Stock;Erdwärme;nein;nah;nah;erreichbar;nein;551-600;201-250;11-15 Jahre;nein;Nebenstrasse;< 3 km;keine;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;101-110;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;2.Stock;Öl;ja;erreichbar;nah;erreichbar;ja;251-300;unter 50;Neubau;ja;Nebenstrasse;< 1 km;keine;Küche (alt);Dusche auf Flur;ja;nein;nein;nein;31-40;nein;250;nein;nein;Studierende
+4 Zimmer;3.Stock;Öl;ja;erreichbar;erreichbar;nah;nein;551-600;201-250;11-15 Jahre;ja;Hauptstrasse;5-10 km;ueber 3000;Küche (alt);Dusche;ja;nein;nein;nein;91-100;ja;260;ja;ja;DINK
+5 Zimmer;EG;Öl;nein;erreichbar;nah;nah;nein;701-750;201-250;ueber 100;nein;Hauptstrasse;5-10 km;ueber 3000;Küche (alt);Dusche;nein;nein;nein;nein;111-120;nein;280;nein;nein;Kleinfamilie
+2-3 Zimmer;1.Stock;Öl;nein;nah;erreichbar;erreichbar;nein;501-550;151-200;ueber 100;ja;Wohngebiet;21-30 km;1000-1500;Küche (alt);Dusche + Wanne;nein;nein;nein;ja;61-70;nein;280;nein;nein;Expatriate
+3-4 Zimmer;EG;Gas-Zentral;nein;erreichbar;nah;nah;nein;501-550;151-200;1-3 Jahre;ja;Nebenstrasse;< 1 km;1000-1500;Küche (alt);Badewanne;ja;nein;ja;nein;81-90;ja;250;nein;nein;Kleinfamilie
+Ein Zimmer;2.Stock;Öl;nein;erreichbar;fern;nah;ja;251-300;unter 50;1-3 Jahre;nein;Hauptstrasse;< 1 km;keine;Küche (alt);Badewanne;ja;nein;ja;nein;31-40;nein;250;nein;nein;Studierende
+Zwei Zimmer;2.Stock;Öl;ja;fern;fern;nein;ja;251-300;50-100;16-20 Jahre;nein;Nebenstrasse;< 1 km;keine;Küche (alt);Badewanne;ja;nein;ja;nein;31-40;nein;250;nein;nein;Studierende
+4-5 Zimmer;4.Stock;Gas-Zentral;ja;nah;fern;nein;ja;551-600;201-250;16-20 Jahre;ja;Hauptstrasse;< 3 km;keine;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;91-100;nein;250;nein;nein;DINK
+5 Zimmer;4.Stock;Lüftungsheizung;nein;nah;nah;nein;ja;701-750;251-300;51-75 Jahre;ja;Hauptstrasse;< 3 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;ja;nein;111-120;nein;250;nein;nein;Kleinfamilie
+4 Zimmer;5.Stock;Gas-Zentral;ja;erreichbar;fern;erreichbar;nein;551-600;151-200;16-20 Jahre;ja;Nebenstrasse;3-5 km;ueber 3000;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;81-90;nein;250;ja;ja;DINK
+Ein Zimmer;8.Stock;Erdwärme;ja;fern;erreichbar;erreichbar;nein;251-300;unter 50;51-75 Jahre;ja;Nebenstrasse;< 3 km;keine;Küche (alt);Badewanne;nein;nein;nein;nein;31-40;ja;250;ja;nein;Studierende
+4 Zimmer;3.Stock;Gas-Zentral;ja;erreichbar;erreichbar;nein;nein;601-650;201-250;11-15 Jahre;ja;Nebenstrasse;3-5 km;keine;Küche (neu);Dusche;ja;nein;nein;teilmoebliert;91-100;nein;250;nein;nein;DINK
+5 Zimmer;EG;Erdwärme;nein;erreichbar;nah;nah;nein;701-750;201-250;Neubau;nein;Abgelegen;> 30 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;111-120;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;2.Stock;Öl;nein;fern;fern;nah;nein;251-300;unter 50;11-15 Jahre;ja;Wohngebiet;< 1 km;keine;Küche (alt);Dusche auf Flur;ja;nein;nein;nein;31-40;nein;250;nein;nein;Studierende
+6 Zimmer;2.Stock;Lüftungsheizung;ja;erreichbar;fern;mit Bus;nein;801-850;251-300;76-100 Jahre;nein;Nebenstrasse;5-10 km;ueber 3000;Küche (alt);Waschbecken;ja;nein;nein;nein;über 120;ja;280;ja;nein;DINK
+4 Zimmer;EG;Öl;ja;erreichbar;nah;nah;ja;551-600;201-250;ueber 100;nein;Hauptstrasse;21-30 km;ueber 3000;keine;Dusche;nein;nein;nein;nein;81-90;nein;300;nein;nein;Kleinfamilie
+5 Zimmer;1.Stock;Öl;ja;erreichbar;nah;nah;ja;701-750;201-250;1-3 Jahre;nein;Nebenstrasse;5-10 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;101-110;nein;260;ja;nein;Kleinfamilie
+5 Zimmer;EG;Gas-Etage;nein;nah;nah;nein;ja;751-800;über 300;16-20 Jahre;nein;Nebenstrasse;21-30 km;ueber 3000;keine;Dusche;nein;nein;nein;nein;111-120;nein;250;nein;nein;Kleinfamilie
+3-4 Zimmer;3.Stock;Gas-Zentral;ja;erreichbar;erreichbar;mit Bus;nein;551-600;151-200;Neubau;ja;Hauptstrasse;< 3 km;ueber 3000;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;81-90;nein;250;ja;nein;DINK
+4-5 Zimmer;2.Stock;Öl;nein;nah;nah;mit Bus;nein;651-700;201-250;16-20 Jahre;nein;Nebenstrasse;< 3 km;ueber 3000;Küche (alt);Badewanne;ja;nein;ja;nein;101-110;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;EG;Erdwärme;nein;erreichbar;erreichbar;nah;nein;201-250;unter 50;Neubau;nein;Hauptstrasse;< 1 km;keine;Küche (alt);Badewanne;nein;nein;nein;nein;20-30;ja;250;ja;nein;Studierende
+4 Zimmer;3.Stock;Gas-Zentral;nein;nah;nah;nah;nein;601-650;201-250;21-30 Jahre;nein;Hauptstrasse;< 1 km;ueber 3000;keine;Dusche;ja;nein;ja;nein;91-100;ja;250;nein;ja;Kleinfamilie
+3 Zimmer;EG;Öl;nein;nah;fern;mit Bus;ja;501-550;101-150;11-15 Jahre;nein;Hauptstrasse;5-10 km;ueber 3000;Küche (neu);Badewanne;nein;ja;nein;ja;71-80;nein;250;nein;nein;Expatriate
+3-4 Zimmer;EG;Öl;ja;erreichbar;nah;erreichbar;ja;451-500;151-200;51-75 Jahre;nein;Hauptstrasse;5-10 km;1000-1500;Küche (neu);Dusche + Wanne;nein;nein;ja;nein;71-80;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;4.Stock;Gas-Zentral;nein;erreichbar;erreichbar;erreichbar;ja;251-300;unter 50;16-20 Jahre;ja;Hauptstrasse;5-10 km;keine;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;20-30;nein;250;nein;nein;Studierende
+Ein Zimmer;2.Stock;Öl;nein;nah;fern;nah;nein;201-250;unter 50;4-7 Jahre;ja;Hauptstrasse;5-10 km;keine;Küche (alt);Badewanne;ja;nein;nein;nein;20-30;nein;250;nein;nein;Studierende
+3-4 Zimmer;EG;Öl;nein;nah;nah;nein;nein;501-550;151-200;21-30 Jahre;nein;Hauptstrasse;> 30 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;81-90;nein;250;ja;nein;Kleinfamilie
+Ein Zimmer;2.Stock;Öl;ja;fern;fern;mit Bus;nein;251-300;unter 50;ueber 100;ja;Nebenstrasse;< 1 km;keine;Küche (alt);Waschbecken;ja;nein;nein;nein;31-40;ja;280;nein;nein;Studierende
+5-6 Zimmer;3.Stock;Pellets;ja;fern;nah;erreichbar;nein;801-850;251-300;7-10 Jahre;ja;Hauptstrasse;5-10 km;1000-1500;Küche (alt);Waschbecken;ja;nein;nein;nein;über 120;nein;250;nein;nein;DINK
+6 Zimmer;4.Stock;Gas-Etage;ja;fern;nah;erreichbar;ja;901-950;über 300;76-100 Jahre;ja;Nebenstrasse;5-10 km;ueber 3000;Küche (alt);Waschbecken;ja;nein;nein;nein;über 120;nein;280;nein;nein;DINK
+Ein Zimmer;1.Stock;Gas-Zentral;nein;erreichbar;nah;erreichbar;nein;251-300;unter 50;1-3 Jahre;ja;Hauptstrasse;5-10 km;keine;Küche (neu);Dusche auf Flur;nein;nein;nein;nein;31-40;nein;260;nein;nein;Studierende
+3-4 Zimmer;EG;Öl;nein;nah;nah;nah;ja;551-600;151-200;ueber 100;nein;Wohngebiet;> 30 km;keine;Küche (neu);Dusche;nein;nein;nein;nein;81-90;nein;280;nein;nein;Kleinfamilie
+Ein Zimmer;1.Stock;Öl;ja;erreichbar;fern;erreichbar;nein;251-300;unter 50;21-30 Jahre;ja;Nebenstrasse;< 3 km;keine;Küche (alt);Badewanne;nein;nein;ja;nein;20-30;nein;250;nein;nein;Studierende
+5 Zimmer;1.Stock;Lüftungsheizung;nein;erreichbar;nah;nein;nein;651-700;151-200;Neubau;nein;Hauptstrasse;11-20 km;keine;Küche (alt);Dusche;nein;ja;nein;nein;111-120;nein;250;ja;nein;Kleinfamilie
+4 Zimmer;4.Stock;Pellets;ja;erreichbar;erreichbar;nah;nein;551-600;201-250;ueber 100;ja;Hauptstrasse;5-10 km;ueber 3000;Küche (neu);Dusche;ja;nein;nein;nein;91-100;nein;280;ja;nein;DINK
+4 Zimmer;EG;Gas-Zentral;nein;erreichbar;nah;erreichbar;nein;551-600;201-250;ueber 100;nein;Wohngebiet;> 30 km;ueber 3000;Küche (alt);Badewanne;nein;nein;nein;nein;91-100;nein;280;nein;nein;Kleinfamilie
+4 Zimmer;2.Stock;Gas-Zentral;ja;erreichbar;nah;nah;nein;551-600;151-200;51-75 Jahre;ja;Nebenstrasse;5-10 km;ueber 3000;Küche (alt);Dusche;ja;nein;nein;nein;81-90;nein;250;nein;nein;Kleinfamilie
+Zwei Zimmer;1.Stock;Öl;nein;erreichbar;fern;nah;nein;251-300;50-100;51-75 Jahre;nein;Hauptstrasse;< 3 km;keine;Küche (alt);Badewanne;ja;nein;nein;nein;31-40;nein;250;nein;ja;Studierende
+5 Zimmer;2.Stock;Gas-Zentral;ja;fern;erreichbar;erreichbar;nein;601-650;201-250;4-7 Jahre;ja;Hauptstrasse;< 3 km;ueber 3000;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;101-110;nein;250;nein;nein;DINK
+3-4 Zimmer;3.Stock;Gas-Etage;nein;nah;nah;nah;nein;501-550;151-200;7-10 Jahre;ja;Hauptstrasse;5-10 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;71-80;nein;250;nein;ja;Kleinfamilie
+5-6 Zimmer;EG;Öl;ja;nah;fern;mit Bus;nein;701-750;251-300;4-7 Jahre;nein;Hauptstrasse;< 3 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;über 120;nein;250;nein;nein;DINK
+4-5 Zimmer;5.Stock;Gas-Zentral;nein;erreichbar;nah;mit Bus;nein;601-650;201-250;4-7 Jahre;ja;Hauptstrasse;< 3 km;keine;Küche (alt);Dusche;ja;nein;ja;nein;91-100;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;EG;Gas-Etage;nein;erreichbar;erreichbar;nah;nein;251-300;unter 50;16-20 Jahre;nein;Hauptstrasse;< 1 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;31-40;ja;250;nein;nein;Studierende
+Ein Zimmer;9.Stock;Öl;nein;nah;fern;erreichbar;nein;251-300;unter 50;11-15 Jahre;ja;Wohngebiet;< 1 km;keine;Küche (alt);Badewanne;ja;nein;nein;nein;20-30;nein;250;nein;nein;Studierende
+4 Zimmer;EG;Öl;nein;nah;nah;erreichbar;nein;551-600;151-200;21-30 Jahre;nein;Nebenstrasse;5-10 km;keine;Küche (neu);Badewanne;nein;nein;nein;nein;91-100;nein;260;nein;nein;Kleinfamilie
+4-5 Zimmer;1.Stock;Öl;nein;erreichbar;nah;mit Bus;ja;651-700;201-250;4-7 Jahre;ja;Hauptstrasse;> 30 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;111-120;nein;250;nein;nein;Kleinfamilie
+4-5 Zimmer;3.Stock;Öl;ja;nah;nah;mit Bus;nein;601-650;201-250;51-75 Jahre;nein;Nebenstrasse;< 3 km;keine;Küche (alt);Dusche;ja;nein;nein;teilmoebliert;91-100;nein;260;nein;nein;DINK
+5 Zimmer;EG;Erdwärme;nein;erreichbar;nah;nah;nein;701-750;201-250;ueber 100;nein;Wohngebiet;5-10 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;111-120;nein;280;nein;ja;Kleinfamilie
+5 Zimmer;1.Stock;Öl;ja;nah;nah;nein;ja;651-700;201-250;16-20 Jahre;nein;Hauptstrasse;< 1 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;101-110;ja;250;nein;ja;Kleinfamilie
+3-4 Zimmer;EG;Pellets;nein;erreichbar;nah;mit Bus;nein;501-550;101-150;51-75 Jahre;nein;Hauptstrasse;< 1 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;81-90;ja;260;nein;nein;Kleinfamilie
+Ein Zimmer;4.Stock;Gas-Zentral;nein;erreichbar;fern;nah;ja;251-300;50-100;51-75 Jahre;ja;Hauptstrasse;< 1 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;31-40;ja;250;nein;nein;Studierende
+Ein Zimmer;2.Stock;Öl;nein;erreichbar;nah;mit Bus;nein;251-300;unter 50;31-50 Jahre;ja;Hauptstrasse;5-10 km;keine;Küche (neu);Dusche;ja;nein;nein;nein;20-30;nein;250;nein;ja;Studierende
+5 Zimmer;2.Stock;Öl;ja;erreichbar;erreichbar;nah;ja;701-750;201-250;16-20 Jahre;ja;Hauptstrasse;5-10 km;keine;keine;Dusche + Wanne;ja;nein;nein;nein;101-110;nein;250;ja;nein;DINK
+5 Zimmer;4.Stock;Gas-Etage;nein;erreichbar;nah;erreichbar;ja;701-750;251-300;31-50 Jahre;ja;Hauptstrasse;< 1 km;ueber 3000;Küche (neu);Dusche + Wanne;nein;nein;nein;nein;101-110;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;4.Stock;Öl;nein;fern;nah;mit Bus;nein;251-300;unter 50;7-10 Jahre;ja;Hauptstrasse;< 3 km;keine;Küche (alt);Badewanne;ja;nein;ja;nein;20-30;nein;250;ja;nein;Studierende
+Ein Zimmer;2.Stock;Gas-Zentral;nein;erreichbar;nah;nah;nein;251-300;50-100;16-20 Jahre;ja;Nebenstrasse;< 3 km;keine;Küche (alt);Dusche + Wanne;ja;nein;nein;teilmoebliert;20-30;nein;260;ja;nein;Studierende
+3-4 Zimmer;1.Stock;Gas-Zentral;ja;fern;erreichbar;erreichbar;nein;551-600;151-200;16-20 Jahre;nein;Hauptstrasse;5-10 km;ueber 3000;Küche (alt);Dusche;nein;nein;nein;ja;81-90;ja;250;nein;nein;Expatriate
+2-3 Zimmer;5.Stock;Erdwärme;nein;erreichbar;erreichbar;mit Bus;ja;451-500;101-150;76-100 Jahre;ja;Hauptstrasse;< 1 km;keine;Küche (neu);Dusche + Wanne;ja;nein;nein;ja;51-60;nein;280;nein;nein;Single
+4-5 Zimmer;EG;Erdwärme;nein;erreichbar;nah;nein;ja;701-750;201-250;ueber 100;nein;Hauptstrasse;> 30 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;101-110;nein;280;ja;nein;Kleinfamilie
+Ein Zimmer;2.Stock;Gas-Zentral;nein;nah;erreichbar;nah;ja;251-300;50-100;76-100 Jahre;ja;Wohngebiet;3-5 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;31-40;nein;280;ja;nein;Studierende
+Ein Zimmer;2.Stock;Öl;nein;nah;fern;nah;ja;251-300;50-100;4-7 Jahre;ja;Hauptstrasse;< 3 km;keine;Küche (alt);Badewanne;nein;nein;nein;nein;31-40;nein;250;nein;nein;Studierende
+4-5 Zimmer;3.Stock;Gas-Etage;ja;erreichbar;fern;erreichbar;nein;651-700;201-250;1-3 Jahre;nein;Hauptstrasse;5-10 km;keine;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;101-110;nein;250;nein;nein;DINK
+4-5 Zimmer;2.Stock;Öl;nein;erreichbar;nah;mit Bus;nein;651-700;251-300;4-7 Jahre;nein;Hauptstrasse;11-20 km;keine;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;101-110;nein;250;nein;nein;Kleinfamilie
+4-5 Zimmer;1.Stock;Lüftungsheizung;nein;erreichbar;nah;nah;nein;601-650;251-300;11-15 Jahre;ja;Hauptstrasse;21-30 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;91-100;ja;250;nein;nein;Kleinfamilie
+Ein Zimmer;6.Stock;Öl;ja;fern;nah;erreichbar;nein;251-300;unter 50;11-15 Jahre;ja;Nebenstrasse;< 3 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;20-30;ja;250;ja;nein;Studierende
+4 Zimmer;2.Stock;Öl;nein;nah;nah;mit Bus;nein;551-600;151-200;Neubau;ja;Nebenstrasse;5-10 km;ueber 3000;Küche (neu);Badewanne;ja;nein;nein;nein;81-90;nein;260;nein;nein;Kleinfamilie
+4 Zimmer;EG;Öl;nein;nah;nah;erreichbar;nein;551-600;151-200;Neubau;nein;Hauptstrasse;> 30 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;81-90;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;1.Stock;Öl;ja;nah;erreichbar;mit Bus;ja;251-300;50-100;16-20 Jahre;nein;Hauptstrasse;< 3 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;20-30;nein;250;nein;nein;Studierende
+5 Zimmer;3.Stock;Gas-Etage;nein;nah;nah;nah;nein;601-650;201-250;51-75 Jahre;nein;Wohngebiet;5-10 km;keine;Küche (neu);Dusche + Wanne;nein;nein;nein;nein;101-110;ja;260;nein;nein;Kleinfamilie
+2-3 Zimmer;EG;Erdwärme;nein;erreichbar;nah;erreichbar;ja;501-550;101-150;ueber 100;ja;Spielstrasse;< 3 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;ja;nein;ja;61-70;ja;280;ja;nein;Expatriate
+5 Zimmer;2.Stock;Öl;ja;nah;nah;nah;nein;701-750;über 300;ueber 100;ja;Hauptstrasse;11-20 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;101-110;ja;280;nein;nein;Kleinfamilie
+Ein Zimmer;1.Stock;Erdwärme;ja;fern;fern;erreichbar;ja;251-300;50-100;4-7 Jahre;ja;Hauptstrasse;5-10 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;20-30;nein;250;nein;ja;Studierende
+4 Zimmer;EG;Öl;nein;erreichbar;nah;mit Bus;ja;601-650;201-250;4-7 Jahre;nein;Hauptstrasse;> 30 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;91-100;nein;250;ja;nein;Kleinfamilie
+Ein Zimmer;8.Stock;Pellets;nein;fern;erreichbar;nah;nein;201-250;unter 50;1-3 Jahre;ja;Hauptstrasse;< 1 km;keine;Küche (alt);Dusche + Wanne;ja;nein;ja;nein;20-30;nein;250;nein;nein;Studierende
+5 Zimmer;EG;Pellets;nein;erreichbar;nah;erreichbar;nein;651-700;201-250;Neubau;nein;Hauptstrasse;< 1 km;ueber 3000;keine;Badewanne;nein;nein;nein;nein;101-110;ja;250;ja;nein;Kleinfamilie
+Ein Zimmer;2.Stock;Gas-Zentral;nein;nah;nah;erreichbar;nein;251-300;unter 50;21-30 Jahre;nein;Hauptstrasse;5-10 km;keine;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;31-40;ja;260;ja;nein;Studierende
+3-4 Zimmer;7.Stock;Öl;nein;erreichbar;nah;erreichbar;ja;501-550;101-150;Neubau;ja;Nebenstrasse;< 1 km;ueber 3000;Küche (neu);Dusche;nein;nein;nein;nein;81-90;nein;250;nein;nein;Kleinfamilie
+4-5 Zimmer;4.Stock;Gas-Zentral;ja;fern;nah;mit Bus;nein;551-600;201-250;7-10 Jahre;ja;Hauptstrasse;3-5 km;keine;Küche (alt);Badewanne;ja;nein;nein;nein;91-100;nein;250;nein;nein;DINK
+4 Zimmer;2.Stock;Öl;nein;erreichbar;nah;erreichbar;nein;551-600;201-250;11-15 Jahre;nein;Hauptstrasse;< 3 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;ja;nein;91-100;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;EG;Pellets;nein;erreichbar;erreichbar;nah;nein;251-300;unter 50;16-20 Jahre;nein;Spielstrasse;5-10 km;keine;Küche (alt);Badewanne;nein;nein;nein;nein;20-30;nein;250;nein;nein;Studierende
+4-5 Zimmer;4.Stock;Gas-Zentral;ja;erreichbar;nah;erreichbar;nein;651-700;201-250;76-100 Jahre;ja;Hauptstrasse;< 1 km;ueber 3000;Küche (neu);Dusche;nein;nein;ja;nein;101-110;nein;280;ja;ja;Kleinfamilie
+5 Zimmer;2.Stock;Öl;ja;erreichbar;erreichbar;erreichbar;ja;701-750;251-300;16-20 Jahre;ja;Hauptstrasse;5-10 km;ueber 3000;Küche (neu);Badewanne;ja;nein;nein;nein;111-120;nein;260;nein;nein;DINK
+Ein Zimmer;EG;Erdwärme;nein;nah;erreichbar;erreichbar;ja;251-300;unter 50;76-100 Jahre;nein;Hauptstrasse;> 30 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;31-40;nein;280;nein;nein;Studierende
+4 Zimmer;5.Stock;Öl;ja;fern;nah;erreichbar;ja;551-600;201-250;4-7 Jahre;ja;Hauptstrasse;5-10 km;ueber 3000;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;81-90;ja;250;nein;nein;DINK
+4 Zimmer;4.Stock;Gas-Zentral;nein;erreichbar;nah;erreichbar;nein;551-600;201-250;11-15 Jahre;ja;Hauptstrasse;< 1 km;ueber 3000;Küche (alt);Badewanne;nein;nein;nein;nein;81-90;ja;250;nein;nein;Kleinfamilie
+4 Zimmer;4.Stock;Öl;nein;nah;nah;erreichbar;nein;551-600;201-250;7-10 Jahre;ja;Hauptstrasse;5-10 km;ueber 3000;Küche (alt);Badewanne;nein;nein;ja;nein;91-100;nein;250;nein;nein;Kleinfamilie
+4 Zimmer;1.Stock;Gas-Etage;nein;erreichbar;nah;erreichbar;nein;601-650;201-250;76-100 Jahre;nein;Wohngebiet;21-30 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;91-100;ja;280;nein;nein;Kleinfamilie
+Ein Zimmer;1.Stock;Öl;nein;erreichbar;nah;nein;nein;251-300;unter 50;76-100 Jahre;ja;Hauptstrasse;5-10 km;keine;Küche (alt);Dusche auf Flur;nein;nein;nein;nein;20-30;ja;280;nein;nein;Studierende
+4-5 Zimmer;EG;Öl;nein;erreichbar;nah;nah;nein;651-700;201-250;7-10 Jahre;nein;Hauptstrasse;> 30 km;ueber 3000;keine;Dusche;ja;nein;nein;nein;101-110;nein;250;nein;nein;Kleinfamilie
+3-4 Zimmer;4.Stock;Gas-Zentral;ja;erreichbar;nah;nein;nein;451-500;101-150;Neubau;ja;Hauptstrasse;< 1 km;keine;Küche (alt);Badewanne;ja;nein;nein;nein;71-80;nein;260;ja;nein;Kleinfamilie
+3 Zimmer;2.Stock;Gas-Etage;nein;erreichbar;fern;erreichbar;nein;501-550;151-200;4-7 Jahre;ja;Spielstrasse;21-30 km;ueber 3000;Küche (alt);Waschbecken;ja;nein;nein;ja;71-80;nein;260;nein;nein;Expatriate
+3-4 Zimmer;5.Stock;Erdwärme;nein;erreichbar;nah;erreichbar;nein;501-550;151-200;ueber 100;ja;Hauptstrasse;5-10 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;81-90;nein;280;nein;nein;Kleinfamilie
+Ein Zimmer;2.Stock;Erdwärme;nein;nah;fern;erreichbar;ja;251-300;unter 50;16-20 Jahre;nein;Hauptstrasse;< 1 km;keine;Küche (alt);Badewanne;nein;nein;nein;nein;20-30;nein;260;nein;nein;Studierende
+4-5 Zimmer;EG;Öl;nein;nah;nah;erreichbar;ja;651-700;201-250;4-7 Jahre;nein;Hauptstrasse;21-30 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;101-110;nein;250;nein;nein;Kleinfamilie
+4-5 Zimmer;5.Stock;Lüftungsheizung;nein;erreichbar;erreichbar;nein;ja;701-750;über 300;16-20 Jahre;ja;Hauptstrasse;5-10 km;ueber 3000;keine;Dusche + Wanne;ja;nein;nein;nein;101-110;nein;250;ja;nein;Single
+5-6 Zimmer;3.Stock;Erdwärme;ja;fern;nah;erreichbar;nein;851-900;251-300;76-100 Jahre;ja;Hauptstrasse;5-10 km;ueber 3000;Küche (neu);Dusche;ja;nein;nein;nein;über 120;nein;280;nein;nein;DINK
+Ein Zimmer;EG;Öl;ja;fern;nah;nein;ja;251-300;50-100;4-7 Jahre;nein;Wohngebiet;11-20 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;20-30;ja;250;ja;ja;Studierende
+Ein Zimmer;3.Stock;Erdwärme;nein;erreichbar;fern;erreichbar;ja;251-300;unter 50;7-10 Jahre;ja;Wohngebiet;5-10 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;20-30;nein;250;ja;nein;Studierende
+4-5 Zimmer;4.Stock;Öl;nein;nah;nah;erreichbar;nein;551-600;201-250;16-20 Jahre;ja;Hauptstrasse;3-5 km;keine;Küche (alt);Badewanne;ja;nein;nein;nein;91-100;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;1.Stock;Öl;ja;nah;erreichbar;erreichbar;nein;251-300;unter 50;1-3 Jahre;nein;Hauptstrasse;3-5 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;31-40;nein;250;nein;nein;Studierende
+Ein Zimmer;5.Stock;Gas-Etage;ja;nah;nah;nein;nein;251-300;unter 50;76-100 Jahre;ja;Nebenstrasse;5-10 km;keine;Küche (alt);Badewanne;ja;nein;nein;nein;31-40;nein;280;nein;nein;Studierende
+5 Zimmer;4.Stock;Öl;ja;erreichbar;nah;nein;ja;651-700;251-300;4-7 Jahre;ja;Hauptstrasse;5-10 km;ueber 3000;Küche (alt);Dusche;ja;nein;nein;nein;111-120;ja;250;ja;nein;Kleinfamilie
+5 Zimmer;3.Stock;Öl;ja;nah;fern;erreichbar;nein;701-750;über 300;ueber 100;ja;Hauptstrasse;5-10 km;ueber 3000;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;111-120;ja;300;nein;nein;DINK
+Ein Zimmer;8.Stock;Öl;ja;fern;fern;nah;ja;251-300;unter 50;16-20 Jahre;ja;Hauptstrasse;< 1 km;keine;Küche (alt);Badewanne;ja;nein;ja;nein;20-30;nein;250;nein;nein;Studierende
+3-4 Zimmer;3.Stock;Erdwärme;ja;erreichbar;erreichbar;erreichbar;ja;501-550;101-150;Neubau;nein;Wohngebiet;5-10 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;81-90;ja;250;nein;nein;DINK
+3-4 Zimmer;3.Stock;Gas-Zentral;ja;fern;nah;erreichbar;nein;551-600;151-200;ueber 100;ja;Hauptstrasse;3-5 km;keine;Küche (alt);Badewanne;ja;nein;nein;nein;81-90;ja;280;ja;nein;DINK
+3-4 Zimmer;2.Stock;Gas-Zentral;nein;nah;nah;mit Bus;nein;451-500;101-150;76-100 Jahre;nein;Hauptstrasse;3-5 km;ueber 3000;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;71-80;nein;280;ja;nein;Kleinfamilie
+3-4 Zimmer;4.Stock;Erdwärme;nein;erreichbar;nah;nah;nein;501-550;101-150;Neubau;ja;Nebenstrasse;5-10 km;1000-1500;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;71-80;nein;250;nein;nein;Kleinfamilie
+3-4 Zimmer;6.Stock;Gas-Zentral;nein;erreichbar;nah;mit Bus;ja;501-550;151-200;7-10 Jahre;ja;Hauptstrasse;< 1 km;keine;Küche (neu);Dusche + Wanne;ja;nein;nein;nein;81-90;nein;250;nein;nein;Kleinfamilie
+4-5 Zimmer;EG;Öl;nein;erreichbar;nah;nah;nein;651-700;201-250;51-75 Jahre;nein;Wohngebiet;> 30 km;keine;Küche (neu);Dusche + Wanne;nein;nein;nein;nein;91-100;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;6.Stock;Gas-Zentral;nein;fern;erreichbar;nein;ja;251-300;unter 50;Neubau;ja;Wohngebiet;< 3 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;20-30;nein;250;ja;nein;Studierende
+4 Zimmer;2.Stock;Pellets;nein;erreichbar;nah;nein;nein;551-600;201-250;7-10 Jahre;ja;Abgelegen;21-30 km;ueber 3000;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;91-100;ja;250;nein;ja;Kleinfamilie
+4-5 Zimmer;2.Stock;Öl;ja;nah;erreichbar;nah;nein;551-600;201-250;7-10 Jahre;nein;Hauptstrasse;5-10 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;91-100;nein;250;ja;nein;DINK
+3-4 Zimmer;5.Stock;Gas-Zentral;nein;nah;nah;nein;nein;501-550;151-200;4-7 Jahre;ja;Wohngebiet;< 1 km;1000-1500;keine;Dusche + Wanne;ja;nein;ja;nein;71-80;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;EG;Lüftungsheizung;nein;erreichbar;nah;nah;nein;251-300;unter 50;4-7 Jahre;ja;Hauptstrasse;> 30 km;keine;Küche (alt);Badewanne;nein;ja;nein;nein;20-30;nein;250;ja;nein;Studierende
+4 Zimmer;5.Stock;Pellets;nein;fern;erreichbar;erreichbar;nein;551-600;201-250;ueber 100;ja;Hauptstrasse;< 3 km;ueber 3000;Küche (alt);Waschbecken;ja;nein;nein;ja;91-100;nein;300;ja;ja;Expatriate
+4-5 Zimmer;2.Stock;Lüftungsheizung;nein;erreichbar;nah;erreichbar;nein;651-700;201-250;51-75 Jahre;ja;Abgelegen;21-30 km;ueber 3000;Küche (alt);Dusche;ja;nein;nein;nein;101-110;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;4.Stock;Gas-Etage;nein;fern;nah;nah;nein;251-300;unter 50;4-7 Jahre;ja;Spielstrasse;3-5 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;20-30;nein;250;nein;nein;Studierende
+4-5 Zimmer;3.Stock;Gas-Zentral;nein;nah;nah;nah;nein;651-700;201-250;Neubau;ja;Hauptstrasse;3-5 km;keine;Küche (alt);Dusche;ja;nein;ja;nein;111-120;nein;250;nein;nein;Kleinfamilie
+4-5 Zimmer;EG;Öl;nein;nah;nah;nein;nein;651-700;201-250;11-15 Jahre;nein;Wohngebiet;> 30 km;keine;Küche (neu);Dusche + Wanne;nein;nein;nein;nein;101-110;nein;250;ja;nein;Kleinfamilie
+4 Zimmer;EG;Erdwärme;nein;erreichbar;nah;mit Bus;ja;551-600;151-200;16-20 Jahre;nein;Abgelegen;> 30 km;ueber 3000;Küche (alt);Badewanne;nein;nein;nein;nein;91-100;nein;250;nein;nein;Kleinfamilie
+4-5 Zimmer;EG;Gas-Etage;nein;nah;nah;nah;nein;601-650;201-250;ueber 100;nein;Hauptstrasse;> 30 km;ueber 3000;Küche (alt);Dusche;ja;nein;nein;nein;101-110;nein;280;ja;nein;Kleinfamilie
+5 Zimmer;3.Stock;Erdwärme;ja;erreichbar;erreichbar;nah;ja;701-750;251-300;11-15 Jahre;ja;Hauptstrasse;5-10 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;111-120;nein;250;nein;nein;DINK
+5 Zimmer;1.Stock;Öl;ja;erreichbar;nah;erreichbar;nein;701-750;251-300;1-3 Jahre;nein;Wohngebiet;11-20 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;111-120;ja;260;nein;nein;Kleinfamilie
+3-4 Zimmer;4.Stock;Gas-Zentral;nein;nah;nah;nein;nein;501-550;151-200;16-20 Jahre;ja;Nebenstrasse;5-10 km;ueber 3000;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;71-80;nein;260;ja;nein;Kleinfamilie
+4 Zimmer;EG;Gas-Etage;nein;nah;nah;mit Bus;ja;551-600;151-200;4-7 Jahre;nein;Wohngebiet;> 30 km;keine;Küche (neu);Dusche;nein;nein;nein;nein;91-100;nein;260;ja;nein;Kleinfamilie
+3-4 Zimmer;1.Stock;Gas-Etage;nein;erreichbar;nah;nah;ja;501-550;151-200;7-10 Jahre;ja;Hauptstrasse;5-10 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;71-80;nein;250;nein;nein;Kleinfamilie
+3 Zimmer;4.Stock;Öl;nein;fern;nah;nein;ja;501-550;201-250;4-7 Jahre;ja;Nebenstrasse;< 1 km;keine;Küche (alt);Dusche + Wanne;ja;nein;nein;ja;71-80;nein;250;ja;nein;Expatriate
+Ein Zimmer;1.Stock;Öl;ja;fern;fern;nah;nein;251-300;unter 50;1-3 Jahre;nein;Hauptstrasse;5-10 km;keine;Küche (alt);Dusche auf Flur;nein;nein;nein;nein;20-30;nein;250;nein;nein;Studierende
+4-5 Zimmer;3.Stock;Pellets;nein;nah;nah;nah;nein;651-700;201-250;16-20 Jahre;ja;Hauptstrasse;5-10 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;101-110;ja;250;nein;nein;Kleinfamilie
+4 Zimmer;7.Stock;Gas-Zentral;nein;erreichbar;nah;nah;nein;501-550;151-200;4-7 Jahre;ja;Hauptstrasse;< 1 km;ueber 3000;keine;Dusche + Wanne;nein;nein;ja;nein;81-90;nein;250;ja;nein;Kleinfamilie
+4-5 Zimmer;2.Stock;Pellets;ja;fern;nah;nein;nein;551-600;201-250;4-7 Jahre;nein;Hauptstrasse;5-10 km;keine;Küche (alt);Badewanne;ja;nein;nein;nein;91-100;nein;250;ja;nein;DINK
+Ein Zimmer;5.Stock;Pellets;ja;erreichbar;fern;nah;ja;251-300;unter 50;7-10 Jahre;ja;Nebenstrasse;< 1 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;20-30;nein;250;nein;nein;Studierende
+5-6 Zimmer;3.Stock;Gas-Etage;ja;fern;erreichbar;nah;nein;751-800;251-300;51-75 Jahre;ja;Wohngebiet;5-10 km;1000-1500;Küche (alt);Dusche auf Flur;ja;nein;nein;nein;111-120;nein;250;ja;nein;DINK
+Ein Zimmer;1.Stock;Öl;nein;fern;erreichbar;nah;nein;251-300;50-100;16-20 Jahre;nein;Nebenstrasse;5-10 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;31-40;ja;250;nein;nein;Studierende
+5 Zimmer;6.Stock;Erdwärme;ja;erreichbar;nah;erreichbar;ja;651-700;201-250;7-10 Jahre;ja;Hauptstrasse;< 1 km;ueber 3000;Küche (alt);Badewanne;ja;nein;ja;nein;111-120;nein;250;nein;nein;Kleinfamilie
+5-6 Zimmer;2.Stock;Öl;ja;fern;fern;nah;ja;801-850;251-300;16-20 Jahre;nein;Hauptstrasse;3-5 km;1000-1500;Küche (alt);Dusche + Wanne;ja;nein;nein;teilmoebliert;111-120;nein;260;nein;nein;DINK
+5 Zimmer;1.Stock;Öl;nein;erreichbar;nah;erreichbar;nein;651-700;251-300;16-20 Jahre;ja;Hauptstrasse;21-30 km;ueber 3000;keine;Dusche + Wanne;nein;ja;nein;nein;111-120;nein;250;nein;nein;Kleinfamilie
+4 Zimmer;8.Stock;Öl;nein;erreichbar;nah;nah;nein;551-600;151-200;16-20 Jahre;ja;Spielstrasse;< 1 km;ueber 3000;Küche (alt);Dusche;ja;nein;nein;nein;81-90;ja;260;nein;nein;Kleinfamilie
+4-5 Zimmer;EG;Lüftungsheizung;nein;nah;nah;nein;nein;601-650;201-250;4-7 Jahre;ja;Wohngebiet;> 30 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;91-100;nein;250;ja;nein;Kleinfamilie
+3-4 Zimmer;EG;Gas-Etage;nein;erreichbar;nah;nein;nein;501-550;101-150;31-50 Jahre;nein;Abgelegen;> 30 km;1000-1500;Küche (alt);Badewanne;nein;nein;nein;nein;71-80;nein;250;nein;nein;Kleinfamilie
+5 Zimmer;3.Stock;Gas-Etage;nein;nah;nah;nah;nein;701-750;251-300;7-10 Jahre;ja;Hauptstrasse;5-10 km;ueber 3000;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;111-120;nein;260;nein;nein;Kleinfamilie
+Ein Zimmer;EG;Gas-Zentral;nein;erreichbar;erreichbar;nein;ja;251-300;unter 50;ueber 100;nein;Hauptstrasse;> 30 km;keine;Küche (alt);Badewanne;nein;nein;nein;nein;20-30;nein;280;ja;nein;Studierende
+3 Zimmer;EG;Öl;nein;erreichbar;erreichbar;erreichbar;ja;501-550;101-150;Neubau;nein;Hauptstrasse;> 30 km;1000-1500;Küche (neu);Dusche + Wanne;nein;ja;nein;nein;61-70;ja;250;nein;nein;Single
+3-4 Zimmer;1.Stock;Gas-Etage;nein;erreichbar;nah;nein;nein;501-550;151-200;11-15 Jahre;ja;Nebenstrasse;3-5 km;1000-1500;Küche (alt);Dusche;nein;nein;ja;nein;81-90;nein;250;nein;nein;Kleinfamilie
+5 Zimmer;5.Stock;Gas-Etage;ja;nah;nah;nah;nein;751-800;251-300;4-7 Jahre;ja;Hauptstrasse;5-10 km;1000-1500;Küche (alt);Badewanne;ja;nein;nein;nein;über 120;nein;250;ja;nein;DINK
+4 Zimmer;4.Stock;Pellets;nein;nah;nah;nah;nein;551-600;201-250;16-20 Jahre;ja;Hauptstrasse;3-5 km;keine;Küche (alt);Dusche + Wanne;ja;nein;ja;nein;81-90;nein;250;ja;nein;Kleinfamilie
+5 Zimmer;2.Stock;Erdwärme;ja;erreichbar;nah;nah;nein;701-750;201-250;21-30 Jahre;ja;Nebenstrasse;5-10 km;ueber 3000;Küche (alt);Badewanne;ja;nein;nein;nein;111-120;ja;250;ja;nein;Kleinfamilie
+3-4 Zimmer;EG;Öl;nein;erreichbar;nah;nein;nein;501-550;151-200;ueber 100;ja;Hauptstrasse;> 30 km;1000-1500;Küche (alt);Dusche;nein;nein;nein;nein;81-90;nein;280;ja;nein;Kleinfamilie
+4-5 Zimmer;1.Stock;Erdwärme;nein;erreichbar;nah;erreichbar;nein;601-650;201-250;1-3 Jahre;ja;Hauptstrasse;21-30 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;91-100;nein;250;nein;ja;Kleinfamilie
+3-4 Zimmer;EG;Gas-Etage;nein;nah;nah;erreichbar;nein;551-600;151-200;4-7 Jahre;nein;Hauptstrasse;> 30 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;81-90;nein;250;nein;nein;Kleinfamilie
+3-4 Zimmer;3.Stock;Lüftungsheizung;nein;nah;nah;mit Bus;ja;551-600;201-250;21-30 Jahre;ja;Wohngebiet;< 3 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;81-90;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;EG;Lüftungsheizung;ja;erreichbar;erreichbar;nah;ja;251-300;unter 50;4-7 Jahre;nein;Nebenstrasse;< 1 km;keine;Küche (neu);Dusche + Wanne;nein;nein;nein;nein;31-40;nein;250;nein;nein;Studierende
+Ein Zimmer;2.Stock;Öl;nein;erreichbar;nah;mit Bus;nein;251-300;unter 50;11-15 Jahre;nein;Nebenstrasse;< 1 km;keine;Küche (alt);Dusche auf Flur;ja;nein;ja;nein;20-30;nein;250;nein;nein;Studierende
+Ein Zimmer;3.Stock;Gas-Zentral;ja;fern;fern;erreichbar;ja;201-250;unter 50;76-100 Jahre;ja;Nebenstrasse;5-10 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;20-30;nein;280;ja;nein;Studierende
+5 Zimmer;EG;Erdwärme;nein;erreichbar;nah;erreichbar;nein;701-750;251-300;11-15 Jahre;nein;Nebenstrasse;5-10 km;ueber 3000;Küche (alt);Dusche;nein;nein;nein;nein;111-120;nein;260;nein;nein;Kleinfamilie
+Zwei Zimmer;3.Stock;Gas-Zentral;ja;erreichbar;erreichbar;nah;nein;251-300;unter 50;4-7 Jahre;ja;Hauptstrasse;< 1 km;keine;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;31-40;nein;250;nein;nein;Studierende
+3-4 Zimmer;EG;Öl;nein;erreichbar;nah;nein;nein;551-600;151-200;4-7 Jahre;nein;Nebenstrasse;> 30 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;81-90;nein;260;nein;nein;Kleinfamilie
+Ein Zimmer;4.Stock;Gas-Etage;ja;erreichbar;erreichbar;erreichbar;ja;251-300;unter 50;21-30 Jahre;ja;Nebenstrasse;< 1 km;keine;Küche (alt);Dusche;ja;nein;ja;nein;20-30;nein;250;ja;nein;Studierende
+5 Zimmer;EG;Öl;nein;erreichbar;nah;nah;nein;701-750;251-300;16-20 Jahre;nein;Hauptstrasse;11-20 km;ueber 3000;keine;Dusche + Wanne;nein;ja;nein;nein;111-120;nein;250;nein;nein;Kleinfamilie
+4-5 Zimmer;8.Stock;Gas-Etage;ja;nah;nah;nah;ja;651-700;251-300;7-10 Jahre;ja;Hauptstrasse;< 1 km;ueber 3000;Küche (alt);Dusche;ja;nein;nein;nein;101-110;nein;250;nein;ja;Kleinfamilie
+Zwei Zimmer;3.Stock;Pellets;nein;erreichbar;fern;nein;nein;251-300;50-100;11-15 Jahre;ja;Hauptstrasse;5-10 km;keine;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;31-40;nein;260;nein;ja;Studierende
+3-4 Zimmer;EG;Öl;nein;nah;nah;nah;ja;551-600;151-200;21-30 Jahre;nein;Hauptstrasse;21-30 km;ueber 3000;keine;Badewanne;nein;nein;nein;nein;81-90;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;4.Stock;Öl;ja;erreichbar;erreichbar;nah;nein;251-300;50-100;7-10 Jahre;ja;Hauptstrasse;5-10 km;keine;Küche (alt);Badewanne;ja;nein;nein;nein;31-40;ja;250;nein;nein;Studierende
+Ein Zimmer;EG;Öl;ja;erreichbar;erreichbar;nah;nein;251-300;unter 50;Neubau;nein;Hauptstrasse;< 1 km;keine;Küche (alt);Badewanne;nein;nein;ja;nein;20-30;nein;250;nein;nein;Studierende
+5 Zimmer;5.Stock;Gas-Zentral;ja;erreichbar;erreichbar;nein;ja;801-850;über 300;76-100 Jahre;ja;Wohngebiet;< 3 km;ueber 3000;keine;Dusche + Wanne;ja;nein;nein;nein;über 120;nein;280;nein;nein;DINK
+Ein Zimmer;1.Stock;Öl;ja;nah;nah;mit Bus;nein;201-250;unter 50;4-7 Jahre;nein;Nebenstrasse;< 1 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;20-30;ja;250;nein;nein;Studierende
+4-5 Zimmer;5.Stock;Pellets;nein;erreichbar;nah;nah;nein;551-600;201-250;11-15 Jahre;ja;Spielstrasse;< 1 km;ueber 3000;Küche (alt);Dusche;ja;nein;ja;nein;91-100;nein;250;ja;nein;Kleinfamilie
+Ein Zimmer;3.Stock;Öl;ja;erreichbar;fern;nein;ja;251-300;50-100;7-10 Jahre;ja;Nebenstrasse;< 1 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;20-30;ja;250;ja;nein;Studierende
+Ein Zimmer;1.Stock;Lüftungsheizung;nein;nah;fern;erreichbar;ja;251-300;50-100;ueber 100;ja;Nebenstrasse;> 30 km;keine;Küche (alt);Dusche;nein;ja;nein;nein;20-30;nein;280;nein;nein;Studierende
+5 Zimmer;EG;Erdwärme;nein;nah;nah;nein;nein;701-750;251-300;ueber 100;nein;Hauptstrasse;< 3 km;keine;keine;Dusche;nein;nein;ja;nein;101-110;nein;280;nein;nein;Kleinfamilie
+Ein Zimmer;1.Stock;Öl;nein;erreichbar;fern;erreichbar;nein;251-300;50-100;7-10 Jahre;ja;Hauptstrasse;21-30 km;keine;Küche (neu);Dusche + Wanne;nein;nein;nein;nein;31-40;nein;250;nein;nein;Studierende
+4 Zimmer;3.Stock;Erdwärme;nein;erreichbar;nah;mit Bus;ja;551-600;201-250;16-20 Jahre;ja;Hauptstrasse;< 1 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;101-110;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;4.Stock;Öl;ja;nah;fern;erreichbar;nein;251-300;unter 50;7-10 Jahre;ja;Nebenstrasse;5-10 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;20-30;nein;260;nein;ja;Studierende
+4 Zimmer;EG;Gas-Etage;nein;erreichbar;nah;erreichbar;nein;551-600;151-200;11-15 Jahre;nein;Hauptstrasse;> 30 km;ueber 3000;Küche (alt);Dusche;nein;nein;nein;nein;81-90;ja;250;nein;nein;Kleinfamilie
+Ein Zimmer;3.Stock;Erdwärme;nein;fern;erreichbar;nein;nein;201-250;unter 50;31-50 Jahre;ja;Wohngebiet;< 3 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;20-30;nein;250;nein;nein;Studierende
+Ein Zimmer;EG;Erdwärme;nein;fern;fern;erreichbar;nein;251-300;unter 50;Neubau;ja;Wohngebiet;< 1 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;20-30;ja;250;ja;nein;Studierende
+Ein Zimmer;2.Stock;Öl;nein;erreichbar;erreichbar;nah;nein;201-250;unter 50;ueber 100;ja;Hauptstrasse;< 1 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;20-30;ja;280;nein;nein;Studierende
+Ein Zimmer;1.Stock;Erdwärme;nein;erreichbar;fern;nah;nein;251-300;unter 50;31-50 Jahre;ja;Hauptstrasse;< 1 km;keine;Küche (alt);Dusche + Wanne;nein;nein;ja;nein;20-30;nein;250;nein;nein;Studierende
+Ein Zimmer;EG;Öl;nein;erreichbar;fern;nah;nein;251-300;50-100;31-50 Jahre;nein;Hauptstrasse;> 30 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;20-30;nein;250;nein;nein;Studierende
+4 Zimmer;1.Stock;Öl;nein;erreichbar;nah;mit Bus;nein;551-600;151-200;4-7 Jahre;nein;Hauptstrasse;> 30 km;ueber 3000;keine;Dusche + Wanne;nein;nein;nein;nein;81-90;nein;250;nein;nein;Kleinfamilie
+5 Zimmer;EG;Gas-Zentral;nein;nah;nah;nein;nein;751-800;251-300;ueber 100;nein;Hauptstrasse;> 30 km;1000-1500;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;111-120;nein;280;ja;nein;Kleinfamilie
+Ein Zimmer;6.Stock;Gas-Etage;nein;nah;fern;nah;nein;251-300;unter 50;21-30 Jahre;ja;Hauptstrasse;< 1 km;keine;Küche (alt);Badewanne;nein;nein;nein;nein;20-30;nein;250;nein;nein;Studierende
+Ein Zimmer;3.Stock;Gas-Etage;ja;erreichbar;erreichbar;nein;ja;251-300;50-100;ueber 100;ja;Hauptstrasse;3-5 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;31-40;ja;280;ja;nein;Studierende
+3-4 Zimmer;1.Stock;Gas-Etage;nein;erreichbar;nah;mit Bus;ja;501-550;151-200;ueber 100;ja;Wohngebiet;< 3 km;keine;Küche (alt);Badewanne;nein;nein;nein;nein;81-90;nein;280;nein;nein;Kleinfamilie
+Ein Zimmer;2.Stock;Pellets;nein;fern;erreichbar;erreichbar;nein;251-300;50-100;16-20 Jahre;ja;Wohngebiet;< 3 km;keine;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;20-30;ja;250;nein;nein;Studierende
+Ein Zimmer;2.Stock;Pellets;nein;fern;erreichbar;erreichbar;ja;251-300;unter 50;4-7 Jahre;ja;Hauptstrasse;< 3 km;keine;Küche (alt);Badewanne;nein;nein;nein;nein;31-40;ja;250;ja;nein;Studierende
+6 Zimmer;5.Stock;Erdwärme;ja;nah;fern;erreichbar;ja;851-900;über 300;Neubau;ja;Hauptstrasse;5-10 km;ueber 3000;Küche (alt);Dusche;ja;nein;nein;nein;über 120;nein;250;nein;nein;DINK
+5-6 Zimmer;3.Stock;Gas-Etage;ja;erreichbar;nah;nah;nein;751-800;251-300;11-15 Jahre;ja;Hauptstrasse;3-5 km;1000-1500;Küche (alt);Dusche;ja;nein;nein;nein;111-120;nein;250;nein;ja;DINK
+Ein Zimmer;EG;Erdwärme;nein;erreichbar;erreichbar;erreichbar;nein;251-300;unter 50;21-30 Jahre;nein;Nebenstrasse;21-30 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;20-30;nein;260;nein;ja;Studierende
+4-5 Zimmer;2.Stock;Öl;nein;erreichbar;nah;erreichbar;ja;551-600;201-250;21-30 Jahre;ja;Hauptstrasse;< 1 km;keine;Küche (alt);Badewanne;ja;nein;ja;nein;91-100;nein;250;ja;nein;Kleinfamilie
+Ein Zimmer;7.Stock;Gas-Etage;nein;erreichbar;erreichbar;erreichbar;nein;251-300;unter 50;16-20 Jahre;ja;Hauptstrasse;< 1 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;20-30;nein;250;nein;nein;Studierende
+4 Zimmer;1.Stock;Öl;nein;nah;nah;nah;ja;551-600;201-250;7-10 Jahre;ja;Hauptstrasse;< 3 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;ja;nein;81-90;ja;250;nein;nein;Kleinfamilie
+Ein Zimmer;3.Stock;Öl;nein;erreichbar;erreichbar;nein;nein;251-300;unter 50;4-7 Jahre;ja;Hauptstrasse;5-10 km;keine;Küche (neu);Dusche auf Flur;ja;nein;nein;nein;31-40;nein;250;nein;nein;Studierende
+4-5 Zimmer;1.Stock;Gas-Zentral;ja;nah;nah;mit Bus;nein;651-700;251-300;4-7 Jahre;ja;Hauptstrasse;21-30 km;ueber 3000;Küche (alt);Badewanne;nein;nein;nein;nein;111-120;nein;250;nein;nein;Kleinfamilie
+4 Zimmer;3.Stock;Pellets;ja;erreichbar;erreichbar;nah;nein;601-650;201-250;ueber 100;ja;Hauptstrasse;5-10 km;ueber 3000;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;91-100;nein;300;ja;nein;DINK
+3-4 Zimmer;EG;Erdwärme;ja;erreichbar;nah;mit Bus;nein;501-550;151-200;7-10 Jahre;ja;Wohngebiet;5-10 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;81-90;nein;250;nein;nein;Kleinfamilie
+4-5 Zimmer;3.Stock;Pellets;ja;erreichbar;nah;erreichbar;ja;551-600;201-250;4-7 Jahre;ja;Nebenstrasse;5-10 km;ueber 3000;Küche (alt);Dusche;ja;nein;nein;nein;91-100;nein;260;nein;nein;Kleinfamilie
+Ein Zimmer;EG;Erdwärme;nein;nah;erreichbar;nah;nein;251-300;50-100;1-3 Jahre;nein;Hauptstrasse;> 30 km;keine;Küche (neu);Dusche;ja;nein;nein;nein;31-40;nein;250;ja;nein;Studierende
+5 Zimmer;EG;Pellets;nein;erreichbar;nah;mit Bus;nein;651-700;201-250;16-20 Jahre;nein;Hauptstrasse;< 3 km;ueber 3000;Küche (alt);Dusche;nein;nein;ja;nein;101-110;ja;250;ja;nein;Kleinfamilie
+Ein Zimmer;7.Stock;Öl;nein;nah;nah;erreichbar;ja;251-300;50-100;7-10 Jahre;ja;Hauptstrasse;< 1 km;keine;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;20-30;nein;250;nein;nein;Studierende
+Ein Zimmer;2.Stock;Öl;ja;nah;erreichbar;nah;ja;251-300;unter 50;1-3 Jahre;nein;Hauptstrasse;< 1 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;31-40;nein;260;ja;nein;Studierende
+3-4 Zimmer;EG;Gas-Zentral;nein;fern;erreichbar;nah;nein;501-550;151-200;16-20 Jahre;nein;Wohngebiet;5-10 km;keine;Küche (alt);Dusche;nein;ja;nein;ja;71-80;nein;260;nein;nein;Expatriate
+5 Zimmer;3.Stock;Öl;ja;nah;fern;nein;nein;651-700;201-250;ueber 100;nein;Nebenstrasse;5-10 km;ueber 3000;Küche (alt);Badewanne;ja;nein;nein;nein;101-110;nein;280;ja;nein;DINK
+4-5 Zimmer;2.Stock;Öl;ja;fern;erreichbar;erreichbar;nein;701-750;201-250;Neubau;nein;Nebenstrasse;5-10 km;ueber 3000;Küche (alt);Dusche + Wanne;ja;nein;nein;ja;101-110;nein;250;nein;nein;DINK
+5 Zimmer;EG;Öl;nein;erreichbar;nah;nah;nein;701-750;201-250;4-7 Jahre;nein;Nebenstrasse;> 30 km;ueber 3000;Küche (alt);Dusche;nein;nein;nein;nein;111-120;nein;250;ja;ja;Kleinfamilie
+3-4 Zimmer;EG;Gas-Zentral;nein;nah;nah;nah;nein;501-550;151-200;16-20 Jahre;nein;Hauptstrasse;> 30 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;71-80;nein;250;nein;nein;Kleinfamilie
+4 Zimmer;3.Stock;Pellets;nein;nah;nah;erreichbar;ja;551-600;201-250;11-15 Jahre;ja;Hauptstrasse;3-5 km;ueber 3000;Küche (alt);Dusche + Wanne;ja;nein;ja;nein;91-100;nein;250;nein;nein;Kleinfamilie
+4-5 Zimmer;2.Stock;Pellets;nein;nah;nah;nah;nein;601-650;201-250;16-20 Jahre;nein;Hauptstrasse;5-10 km;ueber 3000;Küche (neu);Dusche;nein;nein;nein;nein;101-110;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;EG;Gas-Zentral;nein;fern;nah;erreichbar;nein;251-300;unter 50;ueber 100;nein;Nebenstrasse;< 3 km;keine;Küche (alt);Badewanne;nein;nein;nein;nein;20-30;nein;280;ja;nein;Studierende
+4-5 Zimmer;1.Stock;Erdwärme;nein;erreichbar;nah;erreichbar;nein;651-700;201-250;Neubau;nein;Hauptstrasse;< 1 km;ueber 3000;keine;Dusche + Wanne;nein;nein;nein;nein;101-110;nein;250;nein;nein;Kleinfamilie
+3 Zimmer;EG;Erdwärme;ja;erreichbar;erreichbar;erreichbar;nein;501-550;151-200;11-15 Jahre;nein;Hauptstrasse;21-30 km;1000-1500;Küche (alt);Dusche;nein;nein;nein;ja;71-80;nein;250;nein;nein;Expatriate
+3-4 Zimmer;3.Stock;Gas-Etage;ja;nah;fern;nah;nein;551-600;201-250;4-7 Jahre;ja;Wohngebiet;5-10 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;81-90;ja;260;nein;nein;DINK
+4-5 Zimmer;5.Stock;Gas-Etage;nein;erreichbar;nah;erreichbar;ja;601-650;201-250;76-100 Jahre;ja;Hauptstrasse;< 3 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;101-110;nein;280;nein;nein;Kleinfamilie
+5 Zimmer;EG;Öl;nein;nah;nah;erreichbar;ja;701-750;251-300;21-30 Jahre;nein;Hauptstrasse;5-10 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;111-120;nein;250;nein;nein;Kleinfamilie
+3-4 Zimmer;4.Stock;Gas-Etage;nein;erreichbar;nah;nah;ja;551-600;151-200;76-100 Jahre;ja;Hauptstrasse;< 3 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;81-90;nein;280;ja;nein;Kleinfamilie
+3-4 Zimmer;7.Stock;Gas-Etage;nein;nah;nah;erreichbar;nein;501-550;151-200;16-20 Jahre;ja;Nebenstrasse;< 1 km;ueber 3000;Küche (alt);Dusche;ja;nein;nein;nein;71-80;nein;250;nein;nein;Kleinfamilie
+3-4 Zimmer;4.Stock;Öl;nein;erreichbar;nah;nah;nein;551-600;201-250;76-100 Jahre;ja;Hauptstrasse;5-10 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;81-90;ja;300;nein;nein;Kleinfamilie
+4 Zimmer;1.Stock;Öl;nein;erreichbar;nah;erreichbar;nein;551-600;151-200;16-20 Jahre;nein;Hauptstrasse;> 30 km;ueber 3000;Küche (alt);Dusche;nein;nein;nein;nein;81-90;nein;260;nein;nein;Kleinfamilie
+Zwei Zimmer;9.Stock;Öl;nein;erreichbar;fern;erreichbar;nein;251-300;50-100;Neubau;ja;Hauptstrasse;< 1 km;keine;Küche (alt);Waschbecken;nein;nein;nein;nein;41-50;nein;260;nein;nein;Studierende
+Ein Zimmer;9.Stock;Gas-Zentral;ja;erreichbar;fern;mit Bus;nein;201-250;unter 50;Neubau;ja;Hauptstrasse;< 1 km;keine;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;20-30;nein;250;nein;nein;Studierende
+3-4 Zimmer;2.Stock;Pellets;nein;erreichbar;nah;erreichbar;ja;551-600;151-200;51-75 Jahre;nein;Nebenstrasse;5-10 km;keine;Küche (neu);Badewanne;nein;nein;nein;nein;81-90;nein;250;nein;nein;Kleinfamilie
+4-5 Zimmer;1.Stock;Öl;nein;erreichbar;nah;erreichbar;nein;651-700;251-300;1-3 Jahre;ja;Nebenstrasse;11-20 km;ueber 3000;keine;Dusche;nein;nein;nein;nein;101-110;ja;250;nein;ja;Kleinfamilie
+4-5 Zimmer;7.Stock;Erdwärme;ja;erreichbar;nah;nein;nein;551-600;201-250;11-15 Jahre;ja;Hauptstrasse;< 1 km;ueber 3000;keine;Dusche + Wanne;nein;nein;ja;nein;91-100;ja;250;nein;nein;Kleinfamilie
+5 Zimmer;1.Stock;Öl;nein;nah;nah;nah;nein;701-750;251-300;11-15 Jahre;nein;Hauptstrasse;5-10 km;keine;Küche (neu);Badewanne;nein;nein;nein;nein;101-110;ja;250;ja;nein;Kleinfamilie
+4 Zimmer;EG;Öl;nein;nah;nah;erreichbar;nein;551-600;151-200;76-100 Jahre;nein;Hauptstrasse;> 30 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;81-90;nein;280;nein;nein;Kleinfamilie
+4 Zimmer;7.Stock;Öl;nein;erreichbar;nah;nein;nein;551-600;201-250;11-15 Jahre;ja;Hauptstrasse;< 3 km;keine;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;81-90;nein;250;nein;nein;Kleinfamilie
+3-4 Zimmer;10.Stock;Erdwärme;nein;nah;fern;nah;nein;501-550;151-200;21-30 Jahre;ja;Hauptstrasse;< 1 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;ja;81-90;nein;250;nein;nein;Expatriate
+5 Zimmer;4.Stock;Erdwärme;ja;erreichbar;erreichbar;erreichbar;nein;651-700;251-300;4-7 Jahre;ja;Hauptstrasse;< 3 km;ueber 3000;Küche (alt);Dusche;ja;nein;nein;nein;111-120;nein;260;ja;nein;DINK
+Ein Zimmer;2.Stock;Lüftungsheizung;nein;erreichbar;erreichbar;nah;ja;251-300;50-100;4-7 Jahre;ja;Nebenstrasse;< 3 km;keine;Küche (alt);Dusche + Wanne;ja;nein;ja;nein;20-30;nein;250;nein;nein;Studierende
+4-5 Zimmer;4.Stock;Pellets;ja;nah;nah;nah;nein;551-600;201-250;16-20 Jahre;ja;Nebenstrasse;< 1 km;keine;Küche (alt);Dusche + Wanne;ja;nein;nein;nein;101-110;nein;250;nein;nein;Kleinfamilie
+5 Zimmer;3.Stock;Lüftungsheizung;ja;erreichbar;nah;nah;ja;751-800;251-300;Neubau;ja;Wohngebiet;5-10 km;ueber 3000;Küche (alt);Dusche;ja;nein;nein;nein;über 120;nein;250;nein;nein;DINK
+4-5 Zimmer;5.Stock;Erdwärme;nein;erreichbar;nah;erreichbar;nein;601-650;251-300;7-10 Jahre;ja;Wohngebiet;3-5 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;101-110;nein;250;ja;nein;Kleinfamilie
+4-5 Zimmer;EG;Öl;nein;nah;nah;erreichbar;ja;651-700;201-250;7-10 Jahre;nein;Hauptstrasse;< 1 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;101-110;nein;250;nein;ja;Kleinfamilie
+4-5 Zimmer;6.Stock;Öl;ja;nah;nah;nein;ja;651-700;201-250;1-3 Jahre;ja;Hauptstrasse;< 1 km;ueber 3000;keine;Dusche;ja;nein;nein;nein;91-100;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;5.Stock;Gas-Etage;nein;nah;fern;nein;nein;201-250;unter 50;21-30 Jahre;ja;Nebenstrasse;< 3 km;keine;Küche (alt);Dusche;ja;nein;nein;nein;20-30;nein;250;nein;nein;Studierende
+4-5 Zimmer;1.Stock;Erdwärme;nein;erreichbar;nah;erreichbar;nein;701-750;251-300;7-10 Jahre;ja;Hauptstrasse;11-20 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;101-110;nein;260;nein;nein;Kleinfamilie
+Ein Zimmer;2.Stock;Pellets;nein;nah;fern;erreichbar;nein;251-300;unter 50;ueber 100;nein;Wohngebiet;< 1 km;keine;Küche (alt);Dusche + Wanne;ja;nein;ja;nein;20-30;ja;300;nein;nein;Studierende
+5 Zimmer;3.Stock;Öl;nein;nah;nah;nein;ja;651-700;251-300;51-75 Jahre;ja;Hauptstrasse;< 3 km;keine;Küche (alt);Badewanne;ja;nein;nein;nein;101-110;nein;250;nein;nein;Kleinfamilie
+4-5 Zimmer;EG;Erdwärme;nein;nah;nah;erreichbar;nein;651-700;201-250;11-15 Jahre;nein;Wohngebiet;> 30 km;ueber 3000;Küche (alt);Dusche;nein;nein;nein;nein;91-100;nein;250;nein;nein;Kleinfamilie
+Ein Zimmer;5.Stock;Erdwärme;nein;nah;fern;erreichbar;nein;251-300;50-100;ueber 100;ja;Hauptstrasse;< 3 km;keine;Küche (alt);Badewanne;ja;nein;nein;nein;31-40;nein;280;nein;nein;Studierende
+5 Zimmer;EG;Pellets;nein;erreichbar;nah;nein;nein;751-800;201-250;Neubau;nein;Nebenstrasse;> 30 km;ueber 3000;Küche (alt);Dusche + Wanne;nein;nein;nein;nein;111-120;nein;250;ja;ja;Kleinfamilie
+3-4 Zimmer;6.Stock;Öl;ja;nah;fern;nah;ja;501-550;151-200;1-3 Jahre;ja;Nebenstrasse;3-5 km;ueber 3000;Küche (alt);Dusche;ja;nein;nein;nein;81-90;nein;260;ja;nein;DINK
+4-5 Zimmer;3.Stock;Gas-Etage;nein;erreichbar;nah;erreichbar;nein;601-650;201-250;7-10 Jahre;ja;Hauptstrasse;3-5 km;ueber 3000;Küche (alt);Dusche;ja;nein;nein;nein;91-100;ja;250;ja;nein;Kleinfamilie
+3-4 Zimmer;2.Stock;Erdwärme;nein;erreichbar;nah;nein;nein;501-550;151-200;11-15 Jahre;ja;Hauptstrasse;5-10 km;keine;Küche (alt);Dusche;nein;nein;nein;nein;81-90;nein;250;nein;nein;Kleinfamilie
