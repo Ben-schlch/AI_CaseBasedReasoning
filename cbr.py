@@ -201,7 +201,6 @@ def fallbasis_bauen(df: pd.DataFrame, fallbasis) -> pd.DataFrame:
                 fallbasis = pd.concat([fallbasis, df.iloc[i:i + 1]], ignore_index=True)
                 # print(f"Fall {i} hinzugefügt.")
             else:
-                print(f"Fall {i} nicht hinzugefügt.")
                 pass
     return fallbasis
 
